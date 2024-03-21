@@ -1,0 +1,77 @@
+
+#Rubrik{
+    margin-left: 50px;
+}
+
+td{
+    text-align: left;
+}
+th{
+    text-align: left;
+}
+
+#bild{
+    float: left;
+
+}
+
+#Introduktion{
+    float: left;
+    margin-left: 8px;
+
+}
+
+#tabell{
+    position: absolute;
+    top: 300px;
+    left: 400px;
+
+
+
+}
+
+
+
+#linje{
+    height: 6px;
+    width: 800px;
+    float: left;
+    margin-left: 6px;
+    background-color: lightblue;
+}
+
+#Kontakt{
+    position: absolute;
+    top: 520px;
+    height: 70px;
+    width: 266px;
+    top: 540px;
+    background-color: lightblue;
+
+
+
+}
+
+img{
+    border-style: groove;
+    border-width: 8px;
+    border-color: lightblue;
+
+
+}
+
+#Mail{
+    margin-left: 10px;
+}
+
+#Telefon{
+    margin-left: 10px;
+}
+
+#Kolumn1{
+    width: 200px;
+}
+
+#Kolumn2{
+    width: 200px;
+}
